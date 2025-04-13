@@ -1,7 +1,7 @@
 {
-  "name": "my-extension",
-  "displayName": "My VS Code Extension",
-  "description": "A VS Code extension with custom icon",
+  "name": "bramhastra",
+  "displayName": "BRAMHASTRA - The Divine Coding Extension",
+  "description": "A powerful VS Code extension inspired by the divine weapon from Indian mythology, enhancing your coding experience with celestial powers.",
   "version": "0.1.0",
   "icon": "assets/icons/icon.png",
   "engines": {
@@ -21,7 +21,7 @@
     "commands": [
       {
         "command": "my-extension.helloWorld",
-        "title": "Hello World"
+        "title": "BRAMHASTRA: Hello World"
       }
     ]
   },
@@ -42,7 +42,14 @@
     "ts-loader": "^9.5.0",
     "@vscode/vsce": "^2.24.0"
   },
-  "keywords": [],
+  "keywords": [
+    "bramhastra",
+    "divine",
+    "coding",
+    "indian",
+    "productivity",
+    "developer tools"
+  ],
   "type": "commonjs",
   "publisher": "example"
 }
